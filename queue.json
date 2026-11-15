@@ -319,7 +319,18 @@
 			"durationSec": 18.8,
 			"updatedAt": "2026-11-15T20:52:21.810Z",
 			"script": "My football game was missing an entire third of football.\nSpecial teams.\nNow, in full games, every kickoff, punt, field goal, and extra point plays out on the field.\nAll twenty-two players, live.\nAnd on fourth down, it's your call. Go for it, punt it away, or kick the field goal?\nSo be honest. Are you a punter, or do you go for it?"
+		},
+		{
+			"id": "v27",
+			"addedAt": "2026-11-15T20:52:53.139Z",
+			"file": "FourthAndGlory_v27.mp4",
+			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v27.mp4",
+			"videoTitle": "FourthAndGlory_v27.mp4",
+			"status": "review",
+			"durationSec": 19.9,
+			"updatedAt": "2026-11-15T20:52:53.139Z",
+			"script": "I just made my football game WAY more stressful.\nThere's now a real play clock.\nTurn on real-time clocks in Head-to-Head, and the clock keeps running while you pick your play.\nFive seconds left? You get a warning.\nRun out of time? Delay of game. Five-yard penalty.\nSo every second you spend thinking is a second off the clock.\nWould you play with the clock on?"
 		}
 	],
-	"updatedAt": "2026-11-15T20:52:21.810Z"
+	"updatedAt": "2026-11-15T20:52:53.139Z"
 }
