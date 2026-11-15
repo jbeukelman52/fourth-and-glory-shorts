@@ -396,10 +396,20 @@
 			"file": "FourthAndGlory_v27.mp4",
 			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v27.mp4",
 			"videoTitle": "FourthAndGlory_v27.mp4",
-			"status": "review",
+			"status": "ready",
 			"durationSec": 19.9,
-			"updatedAt": "2026-11-15T20:52:53.139Z",
-			"script": "I just made my football game WAY more stressful.\nThere's now a real play clock.\nTurn on real-time clocks in Head-to-Head, and the clock keeps running while you pick your play.\nFive seconds left? You get a warning.\nRun out of time? Delay of game. Five-yard penalty.\nSo every second you spend thinking is a second off the clock.\nWould you play with the clock on?"
+			"updatedAt": "2026-11-15T20:56:44.157Z",
+			"script": "I just made my football game WAY more stressful.\nThere's now a real play clock.\nTurn on real-time clocks in Head-to-Head, and the clock keeps running while you pick your play.\nFive seconds left? You get a warning.\nRun out of time? Delay of game. Five-yard penalty.\nSo every second you spend thinking is a second off the clock.\nWould you play with the clock on?",
+			"youtube": {
+				"title": "I Added a REAL Play Clock to My Football Game ⏱️ #shorts",
+				"text": "I just made my football game WAY more stressful. ⏱️\n\nTurn on real-time clocks in Head-to-Head and the clock keeps running while you pick your play. Five seconds left? You get a warning. Run out of time? Delay of game, five-yard penalty.\n\nEvery second you spend thinking is a second off the clock.\n\nWould you play with the clock on? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "My football game now has a REAL play clock ⏱️\n\nThe clock runs while you pick your play. 5-second warning, then delay of game: 5 yards. Would you play with the clock on? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #gaming"
+			},
+			"instagram": {
+				"text": "I just made my football game way more stressful. ⏱️\n\nReal-time clocks in Head-to-Head: the play clock runs while you choose. Five seconds left? Warning. Zero? Delay of game, five yards.\n\nWould you play with the clock on? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			}
 		},
 		{
 			"id": "v25",
@@ -423,5 +433,5 @@
 			}
 		}
 	],
-	"updatedAt": "2026-11-15T20:56:38.321Z"
+	"updatedAt": "2026-11-15T20:56:44.157Z"
 }
