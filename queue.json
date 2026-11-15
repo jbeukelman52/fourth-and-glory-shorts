@@ -330,7 +330,18 @@
 			"durationSec": 19.9,
 			"updatedAt": "2026-11-15T20:52:53.139Z",
 			"script": "I just made my football game WAY more stressful.\nThere's now a real play clock.\nTurn on real-time clocks in Head-to-Head, and the clock keeps running while you pick your play.\nFive seconds left? You get a warning.\nRun out of time? Delay of game. Five-yard penalty.\nSo every second you spend thinking is a second off the clock.\nWould you play with the clock on?"
+		},
+		{
+			"id": "v25",
+			"addedAt": "2026-11-15T20:54:13.723Z",
+			"file": "FourthAndGlory_v25.mp4",
+			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v25.mp4",
+			"videoTitle": "FourthAndGlory_v25.mp4",
+			"status": "review",
+			"durationSec": 23.4,
+			"updatedAt": "2026-11-15T20:54:13.723Z",
+			"script": "My football game finally looks like REAL football.\nBefore every snap, your offense now huddles up.\nThen they break the huddle and jog to the line, every player at his own pace.\nThey get set, the quarterback barks out the cadence, and the center snaps it.\nAnd when the defense changes its front, defenders actually shift, and subs run in from the sideline.\nSmall details. But it makes every play feel alive.\nWhat should I add next?"
 		}
 	],
-	"updatedAt": "2026-11-15T20:52:53.139Z"
+	"updatedAt": "2026-11-15T20:54:13.723Z"
 }
