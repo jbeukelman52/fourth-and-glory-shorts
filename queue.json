@@ -238,10 +238,20 @@
 			"file": "FourthAndGlory_v32.mp4",
 			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v32.mp4",
 			"videoTitle": "FourthAndGlory_v32.mp4",
-			"status": "review",
+			"status": "ready",
 			"durationSec": 20.8,
-			"updatedAt": "2026-11-15T20:20:27.869Z",
-			"script": "In my football game, you're the head coach. So you should look like one.\nBuild your own coach. Pick a skin tone, a face, a hairstyle, and a beard.\nThen dress for game day. Hoodies, visors, headsets, even cowboy boots.\nHit the big milestones, and you unlock legendary gear.\nThe Golden Headset. The Golden Whistle. The Hall of Fame Jacket.\nSo what's your coach wearing on the sideline?"
+			"updatedAt": "2026-11-15T20:56:31.969Z",
+			"script": "In my football game, you're the head coach. So you should look like one.\nBuild your own coach. Pick a skin tone, a face, a hairstyle, and a beard.\nThen dress for game day. Hoodies, visors, headsets, even cowboy boots.\nHit the big milestones, and you unlock legendary gear.\nThe Golden Headset. The Golden Whistle. The Hall of Fame Jacket.\nSo what's your coach wearing on the sideline?",
+			"youtube": {
+				"title": "Build Your Own Head Coach in My Football Game 🧢 #shorts",
+				"text": "In my football game, you're the head coach. So you should look like one. 🧢\n\nBuild your own coach: skin tone, face, hairstyle and beard. Then dress for game day with hoodies, visors, headsets, even cowboy boots. Hit the big milestones and you unlock legendary gear like the Golden Headset, the Golden Whistle and the Hall of Fame Jacket.\n\nSo what's your coach wearing on the sideline? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "Build your own head coach 🧢\n\nHair, beard, hoodies, visors, cowboy boots... and legendary gear like the Golden Headset. What's your coach wearing on the sideline? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #pixelart"
+			},
+			"instagram": {
+				"text": "You're the head coach, so you should look like one. 🧢\n\nPick a skin tone, face, hairstyle and beard, dress for game day, and unlock legendary gear: the Golden Headset, the Golden Whistle and the Hall of Fame Jacket.\n\nWhat's your coach wearing on the sideline? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			}
 		},
 		{
 			"id": "v31",
@@ -403,5 +413,5 @@
 			}
 		}
 	],
-	"updatedAt": "2026-11-15T20:56:26.855Z"
+	"updatedAt": "2026-11-15T20:56:31.969Z"
 }
