@@ -231,7 +231,18 @@
 			"updatedAt": "2026-11-15T16:43:25.094Z",
 			"script": "I've always wanted a football game where being a good play caller actually matters.\nNot how fast you press buttons.\nNot how good you are at controlling a quarterback.\nJust your ability to outsmart a defense.\nSo I decided to make one myself.\nIt's called Fourth & Glory.\nI've built a football simulation with 96 plays, 50 bonus cards, 16 rival coaches, and a full roguelike progression system.\nYou build your playbook, upgrade your team, and try to win a championship.\nAnd I'm building this entire thing as an indie developer.\nIf you're into football or roguelikes, follow along.\nI've got a lot more to show you.",
 			"notes": "HOLD: the voiceover says 'full roguelike progression system' and 'into football or roguelikes'. Needs re-voiced lines (football deckbuilder) before it can post."
+		},
+		{
+			"id": "v32",
+			"addedAt": "2026-11-15T20:20:27.869Z",
+			"file": "FourthAndGlory_v32.mp4",
+			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v32.mp4",
+			"videoTitle": "FourthAndGlory_v32.mp4",
+			"status": "review",
+			"durationSec": 20.8,
+			"updatedAt": "2026-11-15T20:20:27.869Z",
+			"script": "In my football game, you're the head coach. So you should look like one.\nBuild your own coach. Pick a skin tone, a face, a hairstyle, and a beard.\nThen dress for game day. Hoodies, visors, headsets, even cowboy boots.\nHit the big milestones, and you unlock legendary gear.\nThe Golden Headset. The Golden Whistle. The Hall of Fame Jacket.\nSo what's your coach wearing on the sideline?"
 		}
 	],
-	"updatedAt": "2026-11-15T16:44:52.161Z"
+	"updatedAt": "2026-11-15T20:20:27.869Z"
 }
