@@ -249,10 +249,20 @@
 			"file": "FourthAndGlory_v31.mp4",
 			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v31.mp4",
 			"videoTitle": "FourthAndGlory_v31.mp4",
-			"status": "review",
+			"status": "ready",
 			"durationSec": 22.3,
-			"updatedAt": "2026-11-15T20:22:48.966Z",
-			"script": "I just pulled one of the rarest cards in my football game.\nThere are over 2,800 players to collect. But only sixteen of them are Icons.\nEvery Icon is rated 9.5 or higher, with its own card and its own reveal.\nOpen a Premium Player Pack, and you'll see one about once every hundred and ten packs.\nSo yeah... this is a big deal.\nWhich position would you want your first Icon to play?"
+			"updatedAt": "2026-11-15T20:55:54.549Z",
+			"script": "I just pulled one of the rarest cards in my football game.\nThere are over 2,800 players to collect. But only sixteen of them are Icons.\nEvery Icon is rated 9.5 or higher, with its own card and its own reveal.\nOpen a Premium Player Pack, and you'll see one about once every hundred and ten packs.\nSo yeah... this is a big deal.\nWhich position would you want your first Icon to play?",
+			"youtube": {
+				"title": "I Pulled One of the Rarest Cards in My Football Game 🃏 #shorts",
+				"text": "I just pulled one of the rarest cards in my football game. 🃏\n\nThere are over 2,800 players to collect, but only 16 of them are Icons. Every Icon is rated 9.5 or higher, with its own card and its own reveal. Open a Premium Player Pack and you'll see one about once every 110 packs.\n\nWhich position would you want your first Icon to play? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "I pulled an ICON 🃏\n\nOnly 16 of 2,800+ players are Icons. All rated 9.5+. About 1 in 110 Premium Player Packs. Which position do you want yours at? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #packopening"
+			},
+			"instagram": {
+				"text": "One of the rarest pulls in my football game. 🃏\n\nOnly 16 of the 2,800+ players are Icons: every one rated 9.5 or higher, with its own card and reveal. About one in every 110 Premium Player Packs.\n\nWhich position would you want your first Icon to play? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			}
 		},
 		{
 			"id": "v34",
@@ -343,5 +353,5 @@
 			"script": "My football game finally looks like REAL football.\nBefore every snap, your offense now huddles up.\nThen they break the huddle and jog to the line, every player at his own pace.\nThey get set, the quarterback barks out the cadence, and the center snaps it.\nAnd when the defense changes its front, defenders actually shift, and subs run in from the sideline.\nSmall details. But it makes every play feel alive.\nWhat should I add next?"
 		}
 	],
-	"updatedAt": "2026-11-15T20:54:13.723Z"
+	"updatedAt": "2026-11-15T20:55:54.549Z"
 }
