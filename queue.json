@@ -301,10 +301,20 @@
 			"file": "FourthAndGlory_v33.mp4",
 			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v33.mp4",
 			"videoTitle": "FourthAndGlory_v33.mp4",
-			"status": "review",
+			"status": "ready",
 			"durationSec": 20.1,
-			"updatedAt": "2026-11-15T20:27:36.542Z",
-			"script": "In my football game, you can see EXACTLY what your defense is doing.\nHover over a defensive call, and every assignment shows up on the field.\nZones, blitz paths, and man-to-man matchups.\nSo when you call a Zero Blitz, you can see six guys coming after the quarterback.\nThen you snap it, and find out if you guessed right.\nWould you rather blitz, or sit back in coverage?"
+			"updatedAt": "2026-11-15T20:56:49.533Z",
+			"script": "In my football game, you can see EXACTLY what your defense is doing.\nHover over a defensive call, and every assignment shows up on the field.\nZones, blitz paths, and man-to-man matchups.\nSo when you call a Zero Blitz, you can see six guys coming after the quarterback.\nThen you snap it, and find out if you guessed right.\nWould you rather blitz, or sit back in coverage?",
+			"youtube": {
+				"title": "See EXACTLY What Your Defense Is Doing Before the Snap 🏈 #shorts",
+				"text": "In my football game you can see exactly what your defense is doing. 🏈\n\nHover over a defensive call and every assignment shows up on the field: zones, blitz paths and man-to-man matchups. Call a Zero Blitz and you can see six guys coming after the quarterback. Then you snap it and find out if you guessed right.\n\nWould you rather blitz, or sit back in coverage? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "Hover a defensive call and see every assignment 🏈 Zones, blitz paths, man matchups. Blitz or sit back in coverage? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #defense"
+			},
+			"instagram": {
+				"text": "See exactly what your defense is doing. 🏈\n\nHover over a call and every assignment appears on the field: zones, blitz paths and man-to-man matchups. Then snap it and find out if you guessed right.\n\nBlitz, or sit back in coverage? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			}
 		},
 		{
 			"id": "v29",
@@ -433,5 +443,5 @@
 			}
 		}
 	],
-	"updatedAt": "2026-11-15T20:56:44.157Z"
+	"updatedAt": "2026-11-15T20:56:49.533Z"
 }
