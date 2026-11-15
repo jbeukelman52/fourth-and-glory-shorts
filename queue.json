@@ -65,7 +65,18 @@
 			"instagram": {
 				"text": "What if football was a card game? 🏈🃏\n\nIn Fourth & Glory every play you call comes from your deck. Run it, go deep, or use a bonus card to make your players unstoppable. Just don't waste them: one bad decision can ruin your drive.\n\nWould you play this? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
 			}
+		},
+		{
+			"id": "v09",
+			"addedAt": "2026-11-15T16:41:31.845Z",
+			"file": "FourthAndGlory_v09.mp4",
+			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v09.mp4",
+			"videoTitle": "FourthAndGlory_v09.mp4",
+			"status": "review",
+			"durationSec": 26.6,
+			"updatedAt": "2026-11-15T16:41:31.845Z",
+			"script": ""
 		}
 	],
-	"updatedAt": "2026-11-15T16:41:12.366Z"
+	"updatedAt": "2026-11-15T16:41:31.845Z"
 }
