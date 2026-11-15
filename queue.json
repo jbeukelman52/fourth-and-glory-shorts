@@ -308,7 +308,18 @@
 			"durationSec": 22.3,
 			"updatedAt": "2026-11-15T20:52:06.922Z",
 			"script": "You're the coach. What's the call?\nFourth and one at their thirty-five. You're down by four, with two minutes left.\nGo for it? Punt? Or try a fifty-two-yard field goal?\nI'm going for it!\nA field goal doesn't win it when you're down four. And a punt gives the ball right back.\nSo we line up for the sneak, and...\nWould you have gone for it? Tell me in the comments."
+		},
+		{
+			"id": "v26",
+			"addedAt": "2026-11-15T20:52:21.810Z",
+			"file": "FourthAndGlory_v26.mp4",
+			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v26.mp4",
+			"videoTitle": "FourthAndGlory_v26.mp4",
+			"status": "review",
+			"durationSec": 18.8,
+			"updatedAt": "2026-11-15T20:52:21.810Z",
+			"script": "My football game was missing an entire third of football.\nSpecial teams.\nNow, in full games, every kickoff, punt, field goal, and extra point plays out on the field.\nAll twenty-two players, live.\nAnd on fourth down, it's your call. Go for it, punt it away, or kick the field goal?\nSo be honest. Are you a punter, or do you go for it?"
 		}
 	],
-	"updatedAt": "2026-11-15T20:52:06.922Z"
+	"updatedAt": "2026-11-15T20:52:21.810Z"
 }
