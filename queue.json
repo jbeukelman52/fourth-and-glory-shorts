@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"videos": [
+		{
+			"id": "v13",
+			"addedAt": "2026-11-15T16:40:40.379Z",
+			"file": "FourthAndGlory_v13.mp4",
+			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v13.mp4",
+			"videoTitle": "FourthAndGlory_v13.mp4",
+			"status": "ready",
+			"durationSec": 28,
+			"updatedAt": "2026-11-15T16:40:40.379Z",
+			"script": "I got tired of football games where weather is basically just decoration.\nSo I made it actually affect the gameplay.\nIn Fourth & Glory, rain makes catching the football harder.\nWind affects passing accuracy.\nAnd snow can make it harder for players to move around the field.\nThe best part?\nBad weather also means better rewards.\nSo when you see a snowstorm on the event map, you've got a decision to make.\nAvoid the risk?\nOr take on a harder game for a bigger reward?\nPersonally, I'm taking the snow game.",
+			"youtube": {
+				"title": "I Made Weather Actually Matter in My Football Game ❄️ #shorts",
+				"text": "I got tired of football games where weather is just decoration, so I made it actually matter. ❄️🌧️\n\nIn Fourth & Glory, rain makes the ball harder to catch. Wind throws off passing accuracy. Snow makes it harder for players to move around the field.\n\nThe best part? Bad weather also means better rewards. So when you see a snowstorm on the event map, you've got a decision to make: avoid the risk, or take the harder game for a bigger payoff?\n\nPersonally, I'm taking the snow game. What about you? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "Weather that ACTUALLY matters ❄️🌧️\n\nRain = harder catches. Wind = worse accuracy. Snow = slower players. But bad weather pays better rewards. Would you take the snow game? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #snowgame"
+			},
+			"instagram": {
+				"text": "Weather in my football game isn't just decoration ❄️🌧️\n\nRain makes catching harder. Wind hurts passing accuracy. Snow slows players down. But bad-weather games pay out bigger rewards.\n\nSnowstorm on the map: avoid the risk, or take the harder game for the bigger payoff? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			},
+			"notes": "Rendered before 2026-11-14: the burned-in bottom band / end card still say 'football deckbuilding roguelike'."
+		}
+	],
+	"updatedAt": "2026-11-15T16:40:40.379Z"
+}
