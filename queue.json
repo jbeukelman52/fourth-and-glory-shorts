@@ -76,7 +76,29 @@
 			"durationSec": 26.6,
 			"updatedAt": "2026-11-15T16:41:31.845Z",
 			"script": ""
+		},
+		{
+			"id": "v23",
+			"addedAt": "2026-11-15T16:41:50.545Z",
+			"file": "FourthAndGlory_v23.mp4",
+			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v23.mp4",
+			"videoTitle": "FourthAndGlory_v23.mp4",
+			"status": "ready",
+			"durationSec": 28.4,
+			"updatedAt": "2026-11-15T16:41:50.545Z",
+			"script": "My football game had a BIG problem!\nIt was WAY too easy to just spam every bonus card in your hand. So I had to make a change!\nNow, you can still use as many bonus cards as you want on a play… but there's a catch.\nIf you use ANY bonus cards, you only draw ONE new card after the play.\nBut if you save them? You draw TWO!\nAnd every first down earns you an extra card!\nSo now you have to make a decision. Do you go ALL IN on one play, or save your cards for when you really need them?\nDid I fix the problem, or just make the game harder?",
+			"youtube": {
+				"title": "My Football Game Had a BIG Problem… So I Changed the Rules 🃏 #shorts",
+				"text": "My football game had a BIG problem: it was way too easy to spam every bonus card in your hand. 🃏\n\nSo I changed the rules. You can still use as many bonus cards as you want on a play, but if you use ANY, you only draw one new card after the play. Save them and you draw two. And every first down earns you an extra card.\n\nAll in on one play, or save your cards for when you really need them? Did I fix the problem, or just make the game harder? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "My football card game had a BIG problem 🃏\n\nPlayers spammed every bonus card. New rule: use any bonus card → draw 1. Save them → draw 2. First downs → +1 card. Did I fix it or just make it harder? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #gamedesign"
+			},
+			"instagram": {
+				"text": "My football game had a big problem: spamming every bonus card was way too easy. 🃏\n\nThe fix: use any bonus cards on a play and you draw one card after it. Save them and you draw two. Every first down adds an extra card.\n\nAll in, or save your cards? Did I fix it, or just make it harder? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			},
+			"notes": "Rendered before 2026-11-14: the burned-in bottom band / end card still say 'football deckbuilding roguelike'."
 		}
 	],
-	"updatedAt": "2026-11-15T16:41:31.845Z"
+	"updatedAt": "2026-11-15T16:41:50.545Z"
 }
