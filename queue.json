@@ -72,10 +72,21 @@
 			"file": "FourthAndGlory_v09.mp4",
 			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v09.mp4",
 			"videoTitle": "FourthAndGlory_v09.mp4",
-			"status": "review",
+			"status": "ready",
 			"durationSec": 26.6,
-			"updatedAt": "2026-11-15T16:41:31.845Z",
-			"script": ""
+			"updatedAt": "2026-11-15T16:42:06.154Z",
+			"script": "Most football games give you a playbook.\nMine makes you BUILD one.\nFourth & Glory currently has 96 football plays, including runs, passes, RPOs, and trick plays.\nWant to pound the football? Build around Power, Counter, and Inside Zone.\nWant to throw it all over the field? Stack your deck with Mesh, Flood, and Four Verticals.\nOr build something completely different.\nBut there's a catch.\nYou can only bring 14 play cards into a run.\nSo which plays would make YOUR playbook?",
+			"youtube": {
+				"title": "Most Football Games Give You a Playbook. Mine Makes You BUILD One 🏈 #shorts",
+				"text": "Most football games give you a playbook. Mine makes you BUILD one. 🏈\n\nFourth & Glory has 96 football plays: runs, passes, RPOs and trick plays. Pound the rock with Power, Counter and Inside Zone, air it out with Mesh, Flood and Four Verticals, or build something completely different.\n\nThe catch? You can only bring 14 play cards into a run.\n\nWhich plays make YOUR playbook? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "You don't get a playbook. You BUILD one 🏈\n\nPower, Counter, Inside Zone? Mesh, Flood, Four Verts? Only 14 play cards make the cut. Which plays are in YOUR playbook? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #playbook"
+			},
+			"instagram": {
+				"text": "Most football games hand you a playbook. Mine makes you build one. 🏈\n\nRuns, passes, RPOs, trick plays... but only 14 play cards come with you. Ground and pound, air raid, or something completely different?\n\nWhich plays make YOUR playbook? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			},
+			"notes": "Rendered before 2026-11-14: the burned-in bottom band / end card still say 'football deckbuilding roguelike'."
 		},
 		{
 			"id": "v23",
@@ -100,5 +111,5 @@
 			"notes": "Rendered before 2026-11-14: the burned-in bottom band / end card still say 'football deckbuilding roguelike'."
 		}
 	],
-	"updatedAt": "2026-11-15T16:41:50.545Z"
+	"updatedAt": "2026-11-15T16:42:06.154Z"
 }
