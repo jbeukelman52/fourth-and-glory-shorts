@@ -334,10 +334,20 @@
 			"file": "FourthAndGlory_v30.mp4",
 			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v30.mp4",
 			"videoTitle": "FourthAndGlory_v30.mp4",
-			"status": "review",
+			"status": "ready",
 			"durationSec": 22.3,
-			"updatedAt": "2026-11-15T20:52:06.922Z",
-			"script": "You're the coach. What's the call?\nFourth and one at their thirty-five. You're down by four, with two minutes left.\nGo for it? Punt? Or try a fifty-two-yard field goal?\nI'm going for it!\nA field goal doesn't win it when you're down four. And a punt gives the ball right back.\nSo we line up for the sneak, and...\nWould you have gone for it? Tell me in the comments."
+			"updatedAt": "2026-11-15T20:56:19.041Z",
+			"script": "You're the coach. What's the call?\nFourth and one at their thirty-five. You're down by four, with two minutes left.\nGo for it? Punt? Or try a fifty-two-yard field goal?\nI'm going for it!\nA field goal doesn't win it when you're down four. And a punt gives the ball right back.\nSo we line up for the sneak, and...\nWould you have gone for it? Tell me in the comments.",
+			"youtube": {
+				"title": "4th & 1, Down 4, 2:00 Left. What's YOUR Call? 🏈 #shorts",
+				"text": "You're the coach. What's the call? 🏈\n\nFourth and one at their 35. Down by four with two minutes left. Go for it, punt, or try a 52-yard field goal?\n\nI'm going for it: a field goal doesn't win it when you're down four, and a punt gives the ball right back. So we line up for the QB sneak...\n\nWould you have gone for it? Tell me in the comments! 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "4th & 1 at their 35. Down 4. 2:00 left. 🏈\n\nGo for it, punt, or a 52-yard field goal? Comment your call BEFORE the sneak 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #footballiq"
+			},
+			"instagram": {
+				"text": "You're the coach. 4th & 1 at their 35, down 4, two minutes left. 🏈\n\nGo for it, punt, or try the 52-yard field goal? I went for it. Would you?\n\nComment your call 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			}
 		},
 		{
 			"id": "v26",
@@ -383,5 +393,5 @@
 			}
 		}
 	],
-	"updatedAt": "2026-11-15T20:56:13.262Z"
+	"updatedAt": "2026-11-15T20:56:19.041Z"
 }
