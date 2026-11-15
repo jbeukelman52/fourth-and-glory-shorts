@@ -355,10 +355,20 @@
 			"file": "FourthAndGlory_v26.mp4",
 			"url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v26.mp4",
 			"videoTitle": "FourthAndGlory_v26.mp4",
-			"status": "review",
+			"status": "ready",
 			"durationSec": 18.8,
-			"updatedAt": "2026-11-15T20:52:21.810Z",
-			"script": "My football game was missing an entire third of football.\nSpecial teams.\nNow, in full games, every kickoff, punt, field goal, and extra point plays out on the field.\nAll twenty-two players, live.\nAnd on fourth down, it's your call. Go for it, punt it away, or kick the field goal?\nSo be honest. Are you a punter, or do you go for it?"
+			"updatedAt": "2026-11-15T20:56:26.855Z",
+			"script": "My football game was missing an entire third of football.\nSpecial teams.\nNow, in full games, every kickoff, punt, field goal, and extra point plays out on the field.\nAll twenty-two players, live.\nAnd on fourth down, it's your call. Go for it, punt it away, or kick the field goal?\nSo be honest. Are you a punter, or do you go for it?",
+			"youtube": {
+				"title": "I Added Special Teams to My Football Game 🏈 #shorts",
+				"text": "My football game was missing an entire third of football: special teams. 🏈\n\nNow, in full games, every kickoff, punt, field goal and extra point plays out on the field. All 22 players, live.\n\nAnd on fourth down it's your call: go for it, punt it away, or kick the field goal?\n\nSo be honest. Are you a punter, or do you go for it? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
+			},
+			"tiktok": {
+				"text": "Special teams are finally in my football game 🏈\n\nKickoffs, punts, field goals and extra points, all 22 players on the field. 4th down: go for it, punt or kick? Are you a punter or do you go for it? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #specialteams"
+			},
+			"instagram": {
+				"text": "My football game was missing an entire third of football: special teams. 🏈\n\nKickoffs, punts, field goals and extra points now play out on the field in full games, all 22 players live. And on 4th down, it's your call.\n\nPunter, or go for it? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
+			}
 		},
 		{
 			"id": "v27",
@@ -393,5 +403,5 @@
 			}
 		}
 	],
-	"updatedAt": "2026-11-15T20:56:19.041Z"
+	"updatedAt": "2026-11-15T20:56:26.855Z"
 }
