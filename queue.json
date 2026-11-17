@@ -463,28 +463,6 @@
       }
     },
     {
-      "id": "v21",
-      "addedAt": "2026-11-15T16:42:53.263Z",
-      "file": "FourthAndGlory_v21.mp4",
-      "url": "https://github.com/jbeukelman52/fourth-and-glory-shorts/releases/download/shorts-batch-1/FourthAndGlory_v21.mp4",
-      "videoTitle": "FourthAndGlory_v21.mp4",
-      "status": "ready",
-      "durationSec": 14.1,
-      "updatedAt": "2026-11-17T17:26:10.215Z",
-      "script": "This is the hardest challenge in my football game.\nAlmost nobody beats it.\nThere are 20 Gauntlets, each with five challenges.\nSome are easy. Some are really hard.\nAnd then there's IMPOSSIBLE.\nSo... could you beat all five?",
-      "youtube": {
-        "title": "The Hardest Challenge in My Football Game 😤 Could You Beat It? #shorts",
-        "text": "This is the hardest challenge in my football game. 😤\n\nFourth & Glory has 20 Gauntlets, each with five challenges. Some are easy. Some are really hard. And then there's IMPOSSIBLE.\n\nSo... could you beat all five? 👇\n\nFourth & Glory is a football deckbuilder I'm building as an indie dev. Subscribe to follow the journey! 🏈\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #footballgame #shorts"
-      },
-      "tiktok": {
-        "text": "The hardest challenge in my football game 😤\n\n20 Gauntlets. 5 challenges each. And then there's IMPOSSIBLE. Could you beat all five? 👇\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #challenge"
-      },
-      "instagram": {
-        "text": "The hardest challenge in my football game. 😤\n\n20 Gauntlets, five challenges each, all the way up to IMPOSSIBLE.\n\nCould you beat all five? 👇\n\nFourth & Glory is my football deckbuilder. Follow along as I build it! 🛠️\n\n#FourthAndGlory #football #indiegame #cardgame #deckbuilder #gamedev #collegefootball #nfl #indiedev"
-      },
-      "notes": "Rendered before 2026-11-14: the burned-in bottom band / end card still say 'football deckbuilding roguelike'."
-    },
-    {
       "id": "v42",
       "addedAt": "2026-11-17T02:11:08.884Z",
       "file": "FourthAndGlory_v42.mp4",
@@ -737,5 +715,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-17T17:34:11.551Z"
+  "updatedAt": "2026-11-17T17:39:37.330Z"
 }
